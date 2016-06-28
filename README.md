@@ -8,6 +8,12 @@ We can make lists:
 * two
 * three
 
+Let's make a numbered list:
+
+1. thing1
+2. thing2
+
+
 And `write code inline` or 
 ```.py
 def as_a_fenced_block(msg):
