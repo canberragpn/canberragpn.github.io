@@ -1,0 +1,45 @@
+title: Canberra Girls' Programming Network
+description: &description Canberra branch of the Girls' Programming Network
+author: Canberra GPN
+url: https://testcbrgpn.github.io/
+logo: /static/img/gpn.png
+github: &github https://github.com/canberragpn
+about: *description
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+    - text: News
+      url: /news/
+      icon: fa-comments
+    - text: About
+      url: /about/
+      icon: fa-child
+      layout: post
+    - text: Register
+      url: /register/
+      icon: fa-group
+    - text: Workshops
+      url: /workshops/
+      icon: fa-desktop
+    - text: Contact
+      url: /contact/
+      icon: fa-envelope
+
+social:
+    - icon: fa-facebook
+      link: 'http://www.facebook.com/canberagpn'
+    - icon: fa-github
+      link: *github
+
+enableTags: true
+tagarray: []
+
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
