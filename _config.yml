@@ -39,6 +39,7 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/news/page:num/"
+permalink: pretty
 markdown: kramdown
 gems:
   - jekyll-paginate
