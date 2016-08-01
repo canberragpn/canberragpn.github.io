@@ -12,10 +12,10 @@ urls:
     - text: News
       url: /news/
       icon: fa-comments
+      layout: post
     - text: About
       url: /about/
       icon: fa-child
-      layout: post
     - text: Register
       url: /register/
       icon: fa-group
@@ -38,7 +38,7 @@ tagarray: []
 baseurl: ""
 paginate: 20
 per_page: 20
-paginate_path: "/page:num/"
+paginate_path: "/news/page:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
