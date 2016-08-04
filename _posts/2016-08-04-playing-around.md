@@ -28,6 +28,13 @@ def some_func():
     print("woo")
 ```
 
+Ok that didn't work, how about
+
+{% highlight python %}
+def some_func():
+    print("woo")
+{% endhighlight %}
+
 We can add an image
 
 ![Something](/static/img/placeholder.jpg "Hover text!")
@@ -35,3 +42,5 @@ We can add an image
 And | a | table
 ----|---|------
 with|stuff|in it
+
+Table isn't working as expected.
