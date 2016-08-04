@@ -22,12 +22,14 @@ We can write a code block
 ```
 
 Or one with syntax highlighting
+
 ```.py
 def some_func():
     print("woo")
 ```
 
 We can add an image
+
 ![Something](/static/img/placeholder.jpg "Hover text!")
 
 And | a | table
