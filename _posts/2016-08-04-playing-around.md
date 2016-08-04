@@ -4,10 +4,15 @@ title: Playing around
 ---
 
 # This is a top level heading
+
 ## This is the next level
+
 ### And the next
+
 #### How far down can we go
+
 ##### Keep going
+
 ###### You can't really call this a heading anymore
 
 We can write an ordinary paragraph *with* **some** `interesting` ~~formatting~~. 
