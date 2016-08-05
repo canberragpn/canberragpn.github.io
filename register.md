@@ -4,9 +4,9 @@ title: Register
 permalink: /register/
 ---
 
-# Register for the Canberra Girls' Programming Event in August
+# Register for our next event! 
 
-Registering for our event on the 21st of August is easy. All you need to do is to fill out the following forms:
+Registering for our next event is easy. All you need to do is to fill out the following forms:
 
   * [Canberra GPN Application Form][gpn application]
   * [Canberra GPN Photo Permissions][gpn photo permission]
