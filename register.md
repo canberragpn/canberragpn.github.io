@@ -13,13 +13,13 @@ Registering for our next event is easy. All you need to do is to fill out the fo
 
 Then email them through to the following addresses:
 
-  * [DISH](asd.dish@defence.gov.au)
-  * [Su-en Williams](su-en.williams@defence.gov.au)
-  * [Courtney Ross] (courtney.ross@defence.gov.au)
+  * [ASD DISH](mailto:asd.dish@defence.gov.au)
+  * [Su-en Williams](mailto:su-en.williams@defence.gov.au)
+  * [Courtney Ross](mailto:courtney.ross@defence.gov.au)
   
 You will recieve a confirmation email. 
 
 We look forward to seeing you at our event!
 
-[gpn application]: /static/doc/GPN-Application-Form.doc
+[gpn application]:/static/doc/GPN-Application-Form.doc
 [gpn photo permission]:/static/doc/CBR-GPN-photo-permission.pdf
