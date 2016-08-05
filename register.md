@@ -13,9 +13,9 @@ Registering for our next event is easy. All you need to do is to fill out the fo
 
 Then email them through to the following addresses:
 
-  * asd.dish@defence.gov.au
-  * su-en.williams@defence.gov.au
-  * courtney.ross@defence.gov.au
+  * [DISH](asd.dish@defence.gov.au)
+  * [Su-en Williams](su-en.williams@defence.gov.au)
+  * [Courtney Ross] (courtney.ross@defence.gov.au)
   
 You will recieve a confirmation email. 
 
