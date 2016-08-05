@@ -4,12 +4,15 @@ title: Register
 permalink: /register/
 ---
 
-#Register for the Canberra Girls' Programming Event in August
+# Register for the Canberra Girls' Programming Event in August
+
 Registering for our event on the 21st of August is easy. All you need to do is to fill out the following forms:
+
   * [Canberra GPN Application Form][gpn application]
   * [Canberra GPN Photo Permissions][gpn photo permission]
 
 Then email them through to the following addresses:
+
   * asd.dish@defence.gov.au
   * su-en.williams@defence.gov.au
   * courtney.ross@defence.gov.au
