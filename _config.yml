@@ -13,9 +13,6 @@ urls:
       url: /news/
       icon: fa-comments
       layout: post
-    - text: About
-      url: /about/
-      icon: fa-child
     - text: Register
       url: /register/
       icon: fa-group
@@ -27,8 +24,6 @@ urls:
       icon: fa-envelope
 
 social:
-    - icon: fa-facebook
-      link: 'http://www.facebook.com/canberagpn'
     - icon: fa-github
       link: *github
 
