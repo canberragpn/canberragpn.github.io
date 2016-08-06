@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Announcing the next Canberra Girls' Programming Network workshop for August 21st
+title: Announcing the next Canberra Girls' Programming Network workshop
 ---
 
 There has never been a more exciting time to be a female learning about technology!
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
+
+<p><strong><center>Our next workshop will be held on August 21st!</center></strong></p>
 
 **Please register now by going to the [registration page](/register) and returning your completed forms to [su-en.williams@defence.gov.au](mailto:su-en.williams@defence.gov.au), [courtney.ross@defence.gov.au](mailto:courtney.ross@defence.gov.a) and [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au).**
 
