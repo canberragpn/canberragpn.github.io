@@ -4,10 +4,12 @@ title: Canberra Girls' Programming Network
 permalink: /
 ---
 
-**It has never been a more exciting time to be a girl in IT!**
+![Girls' Programming Network](/static/img/GPN-back-green.png "Girls' Programming Network")
 
-The Canberra Girls' Programming Network is aimed at girls in grades 4 - 12. Girls are introduced to a range of topics such as cryptology and games programming using the python programming language to develop their own program. Events are run several times a year by women working in IT.
+<p><center><strong>There has never been a more exciting time to be a girl in IT!</strong></center></p>
 
-So whether you're a coding guru, or just a beginner, come along to one of our events and meet women working in STEM industries. 
+The Canberra Girls' Programming Network runs free, hands-on programming workshops for girls in grades 4--12. Girls are introduced to a range of topics such as cryptology and games and code their own programs using the Python programming language. No coding experience is necessary! Events are run several times a year by local women studying or working in IT in industry, academia and government.
 
-Check out our news page about our upcoming event.
+So whether you're a coding guru, or just a beginner, come along to one of our workshops and give programming a go!
+
+Check out our news page for upcoming events.
