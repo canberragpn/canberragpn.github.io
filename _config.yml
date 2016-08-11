@@ -1,7 +1,7 @@
 title: Canberra Girls' Programming Network
 description: &description Canberra branch of the Girls' Programming Network
 author: Canberra GPN
-url: https://testcbrgpn.github.io
+url: https://canberragpn.github.io
 logo: /static/img/gpn.png
 github: &github https://github.com/canberragpn
 about: *description
