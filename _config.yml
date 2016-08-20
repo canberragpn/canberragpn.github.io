@@ -19,6 +19,9 @@ urls:
     - text: Workshops
       url: /workshops/
       icon: fa-desktop
+    - text: Survey
+      url: /survey/
+      icon: fa-question-circle
     - text: Contact
       url: /contact/
       icon: fa-envelope
