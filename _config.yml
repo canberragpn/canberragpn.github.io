@@ -26,10 +26,6 @@ urls:
       url: /contact/
       icon: fa-envelope
 
-social:
-    - icon: fa-github
-      link: *github
-
 enableTags: true
 tagarray: []
 
