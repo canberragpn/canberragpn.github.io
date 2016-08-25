@@ -1,16 +1,30 @@
 [
     {
+        "name": "Cryptology",
+        "image": "cryptography.jpg",
+        "url": "/static/doc/cryptography_workbook.pdf",
+        "date": "August 2016",
+        "tags": ["python", "cryptology"]
+    },
+    {
+        "name": "Advanced cryptology",
+        "image": "cryptography.jpg",
+        "url": "/static/doc/advanced_cryptography_workbook.pdf",
+        "date": "August 2016",
+        "tags": ["python", "cryptology"]
+    },
+    {
         "name": "Scissors, paper, rock",
         "image": "rock_paper_scissors.svg",
         "url": "https://docs.google.com/document/d/160YP8qfv44z8RfV_baIRvPNhQtnw-aicJnBjmha-F6Q/edit?usp=sharing",
         "date": "May 2016",
-        "tags": ["python"]
+        "tags": ["python", "games"]
     },
     {
         "name": "Scissors, paper, rock, lizard, spock",
         "image": "rock_paper_scissors_lizard_spock.jpg",
         "url": "https://docs.google.com/document/d/1aanNZ9KlgZo9F3N2gmsYy7Q2MKZyF_zzl8id2WhWASQ/edit?usp=sharing",
         "date": "May 2016",
-        "tags": ["python"]
+        "tags": ["python", "games"]
     }
 ]
