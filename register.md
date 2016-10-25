@@ -11,11 +11,9 @@ Registering for our next event is easy. All you need to do is to fill out the fo
   * [Canberra GPN Application Form][gpn application]
   * [Canberra GPN Photo Permissions][gpn photo permission]
 
-Then email them through to the following addresses:
+Then email them through to the following address:
 
   * [ASD DISH](mailto:asd.dish@defence.gov.au)
-  * [Su-en Williams](mailto:su-en.williams@defence.gov.au)
-  * [Courtney Ross](mailto:courtney.ross@defence.gov.au)
   
 You will recieve a confirmation email. 
 
