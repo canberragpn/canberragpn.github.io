@@ -6,7 +6,7 @@ permalink: /license/
 
 # The MIT License (MIT)
 
-Copyright (c) 2016 Canberra Girls' Programming Network
+Copyright (c) 2017 Canberra Girls' Programming Network
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
