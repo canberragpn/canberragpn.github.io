@@ -9,7 +9,7 @@ The Canberra Girls’ Programming Network is a community for female students to 
 
 <p><strong><center>Our next workshop will be held on March 26th!</center></strong></p>
 
-**Please register now by going to the [registration page](/register) and returning your completed forms to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au).**
+**Please register now by going to the [registration page](/register) and return your completed forms to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au).**
 
 ## What
 
