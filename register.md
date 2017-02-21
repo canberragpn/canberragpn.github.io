@@ -19,5 +19,5 @@ You will recieve a confirmation email.
 
 We look forward to seeing you at our event!
 
-[gpn application]:/static/doc/GPN-Application-Form.pdf
-[gpn photo permission]:/static/doc/GPN-Photo-Permission.pdf
+[gpn application]:/static/doc/GPN_Application_Form.pdf
+[gpn photo permission]:/static/doc/GPN_Photo_Permission_Form.pdf
