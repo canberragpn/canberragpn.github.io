@@ -21,14 +21,14 @@
         "tags": ["python"]
     },
     {
-        "name": "Cryptology",
+        "name": "Cryptography",
         "image": "cryptography.jpg",
         "url": "/static/doc/cryptography_workbook.pdf",
         "date": "August 2016",
         "tags": ["python", "cryptology"]
     },
     {
-        "name": "Advanced cryptology",
+        "name": "Advanced cryptography",
         "image": "cryptography.jpg",
         "url": "/static/doc/CryptographyAdvanced.pdf",
         "date": "August 2016",
