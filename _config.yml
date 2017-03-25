@@ -22,9 +22,6 @@ urls:
     - text: Contact
       url: /contact/
       icon: fa-envelope
-    - text: Survey
-      url: /survey/
-      icon: fa-question
 
 enableTags: true
 tagarray: []
