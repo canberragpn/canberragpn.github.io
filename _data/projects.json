@@ -7,6 +7,20 @@
         "tags": ["python"]
     },
     {
+        "name": "Markov chains",
+        "image": "markov_chains.jpg",
+        "url": "/static/doc/MarkovChains.pdf",
+        "date": "November 2016",
+        "tags": ["python"]
+    },
+    {
+        "name": "Advanced markov chains",
+        "image": "markov_chains.jpg",
+        "url": "/static/doc/MarkovChainsAdvanced.pdf",
+        "date": "November 2016",
+        "tags": ["python"]
+    },
+    {
         "name": "Cryptology",
         "image": "cryptography.jpg",
         "url": "/static/doc/cryptography_workbook.pdf",
@@ -22,7 +36,7 @@
     },
     {
         "name": "Scissors, paper, rock",
-        "image": "rock_paper_scissors.svg",
+        "image": "rock_paper_scissors.png",
         "url": "https://docs.google.com/document/d/160YP8qfv44z8RfV_baIRvPNhQtnw-aicJnBjmha-F6Q/edit?usp=sharing",
         "date": "May 2016",
         "tags": ["python", "games"]
