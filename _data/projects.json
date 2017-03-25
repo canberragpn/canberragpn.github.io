@@ -30,7 +30,7 @@
     {
         "name": "Advanced cryptology",
         "image": "cryptography.jpg",
-        "url": "/static/doc/advanced_cryptography_workbook.pdf",
+        "url": "/static/doc/CryptographyAdvanced.pdf",
         "date": "August 2016",
         "tags": ["python", "cryptology"]
     },
