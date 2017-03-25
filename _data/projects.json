@@ -1,5 +1,12 @@
 [
     {
+        "name": "Python reference guide",
+        "image": "GPN-square.png",
+        "url": "/static/doc/PythonReferenceGuide.pdf",
+        "date": "March 2017",
+        "tags": ["python"]
+    },
+    {
         "name": "Cryptology",
         "image": "cryptography.jpg",
         "url": "/static/doc/cryptography_workbook.pdf",
