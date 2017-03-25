@@ -37,14 +37,14 @@
     {
         "name": "Scissors, paper, rock",
         "image": "rock_paper_scissors.png",
-        "url": "https://docs.google.com/document/d/160YP8qfv44z8RfV_baIRvPNhQtnw-aicJnBjmha-F6Q/edit?usp=sharing",
+        "url": "/static/doc/ScissorsPaperRock.pdf",
         "date": "May 2016",
         "tags": ["python", "games"]
     },
     {
         "name": "Scissors, paper, rock, lizard, spock",
         "image": "rock_paper_scissors_lizard_spock.jpg",
-        "url": "https://docs.google.com/document/d/1aanNZ9KlgZo9F3N2gmsYy7Q2MKZyF_zzl8id2WhWASQ/edit?usp=sharing",
+        "url": "/static/doc/ScissorsPaperRockLizardSpock.pdf",
         "date": "May 2016",
         "tags": ["python", "games"]
     }
