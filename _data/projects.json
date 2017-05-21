@@ -7,6 +7,27 @@
         "tags": ["python"]
     },
     {
+        "name": "Tic tac toe",
+        "image": "tic_tac_toe.png",
+        "url": "/static/doc/TicTacToe.pdf",
+        "date": "March 2017",
+        "tags": ["python", "games"]
+    },
+    {
+        "name": "More tic tac toe",
+        "image": "tic_tac_toe.png",
+        "url": "/static/doc/MoreTicTacToe.pdf",
+        "date": "March 2017",
+        "tags": ["python", "games"]
+    },
+    {
+        "name": "Tic tac toe extensions",
+        "image": "tic_tac_toe.png",
+        "url": "/static/doc/TicTacToeExtensions.pdf",
+        "date": "March 2017",
+        "tags": ["python", "games"]
+    },
+    {
         "name": "Markov chains",
         "image": "markov_chains.jpg",
         "url": "/static/doc/MarkovChains.pdf",
