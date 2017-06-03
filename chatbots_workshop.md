@@ -8,7 +8,7 @@ permalink: /chatbots_workshop/
 
 # Sassy security chatbots
 
-[Start of day survey]()
+[Start of day survey](https://docs.google.com/forms/d/e/1FAIpQLSfo8odCbWlKbi0dw3hdzvgR3ZUlm4DcQ3PQKknWhlH6lI6TqQ/viewform)
 
 ## Beginners material
 
@@ -29,4 +29,4 @@ permalink: /chatbots_workshop/
 * [Python reference guide](/static/doc/PythonReferenceGuide.pdf)
 * [Networking reference guide](/static/doc/NetworkingReferenceGuide.pdf)
 
-[End of day survey]()
+[End of day survey](https://docs.google.com/forms/d/e/1FAIpQLSdBvl4Jh_2GX_8hIZlSOoewnwyPN30L1SlHPwPgNhobH9-q2g/viewform)
