@@ -23,6 +23,8 @@ permalink: /chatbots_workshop/
 * [Intermeditate book 2](/static/doc/SassySecurityChatbotIntermediateBook2.pdf)
 * [Intermeditate book 3](/static/doc/SassySecurityChatbotIntermediateExtensions.pdf)
 * [Intermediate slides](https://drive.google.com/drive/folders/0B2Kt73hcAirqYlM4TE42Q3N0eGM?usp=sharing)
+* [portal.py](/static/code/portal.py)
+* [helper.py](/static/code/helper.py)
 
 ## Reference material
 
