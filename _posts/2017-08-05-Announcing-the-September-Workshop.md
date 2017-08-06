@@ -5,13 +5,13 @@ title: Announcing the September 2017 Workshop!
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
-<p><strong><center>Our next workshop will be held on the 4th of June.</center></strong></p>
+<p><strong><center>Our next workshop will be held on the 10th of September.</center></strong></p>
 
 **Please register now by going to the [registration page](/register) and returning your completed forms to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au).**
 
 ## What
 
-The workshop topic is Flappy.
+The workshop topic is Flappy Bird.
 
 Using pygame, we'll send Flappy Bird flying through the sky as she aims to avoid all the obstacles!
 
