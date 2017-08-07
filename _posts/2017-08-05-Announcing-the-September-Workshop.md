@@ -37,7 +37,7 @@ No need to have coded before! But the workshop is also suitable for students who
 
 ## How
 
-You'll need to register to attend. Please fill out the application form and photo permission form [here](/register) and return to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au) by 4th September 2017.
+You'll need to register to attend. Please fill out the application form [here](/register) and return to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au) by 4th September 2017.
 
 You will receive information and confirmation via email prior to the workshop day. Please be aware that places are limited. If you miss out you will be added to our mailing list to ensure that you get early notification for the next event.
 
