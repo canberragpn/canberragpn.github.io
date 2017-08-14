@@ -3,6 +3,16 @@ layout: post
 title: Announcing the September 2017 Workshop!
 ---
 
+----
+
+**Update 14th August** 
+
+Registrations for the September event have now closed as we are now fully subscribed. Thank you so much to everyone who has subscribed.
+
+If your daughter has registered for the upcoming event but is no longer able to attend, please let us know.
+
+----
+
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
 <p><strong><center>Our next workshop will be held on the 10th of September.</center></strong></p>
