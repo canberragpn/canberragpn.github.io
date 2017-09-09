@@ -14,6 +14,13 @@
         "tags": ["python", "networking"]
     },
     {
+        "name": "Flappy bird",
+        "image": "bg.png",
+        "url": "/flappy_bird_workshop",
+        "date": "September 2017",
+        "tags": ["python", "graphics", "games"]
+    },
+    {
         "name": "Chatbots",
         "image": "hal9000.png",
         "url": "/chatbots_workshop",
