@@ -17,8 +17,8 @@ permalink: /flappy_bird_workshop/
 
 ## Intermediate material
 
-* [Intermeditate book 1](/static/doc/FlappyBirdIntermediateBook1.pdf)
-* [Intermeditate book 2](/static/doc/FlappyBirdIntermediateBook2.pdf)
+* [Intermediate book 1](/static/doc/FlappyBirdIntermediateBook1.pdf)
+* [Intermediate book 2](/static/doc/FlappyBirdIntermediateBook2.pdf)
 
 ## Additional material
 
@@ -26,6 +26,7 @@ permalink: /flappy_bird_workshop/
 * [bird.png](/static/img/bird.png)
 * [pipe.png](/static/img/pipe.png)
 * [Slides](https://drive.google.com/drive/folders/0BzdLfyB8idOjYm82SjJBdkdzVnc)
+* [Installing pygame](/static/doc/Installing_pygame.pdf)
 
 ## Reference material
 
