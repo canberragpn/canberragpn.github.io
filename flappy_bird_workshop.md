@@ -26,7 +26,7 @@ permalink: /flappy_bird_workshop/
 * [bird.png](/static/img/bird.png)
 * [pipe.png](/static/img/pipe.png)
 * [Slides](https://drive.google.com/drive/folders/0BzdLfyB8idOjYm82SjJBdkdzVnc)
-* [Installing pygame](/static/doc/Installing_pygame.pdf)
+* [Installing pygame](/static/doc/Installing_Pygame.pdf)
 
 ## Reference material
 
