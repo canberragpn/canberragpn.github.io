@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row">
+  {% assign sorted_worksops = (site.workshops | sort: 'date') | reverse %}
+  {% for workshop in sorted_worksops %}
+  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 bottom-padded">
+    <div class="card text-center shadow">
+      <div class="card-body">
+        <img class="bottom-padded" src="{{ site.baseurl }}{{ site.imgdir }}{{ workshop.icon }}" alt="{{ workshop.title }}" style="width: 100%">
+        <h5 class="card-title">{{ workshop.title }}</h5>
+        <a href="{{ workshop.url }}" class="btn btn-secondary">View</a>
+      </div>
+      <div class="card-footer text-muted">
+        {{ workshop.date | date_to_string }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,37 +1,35 @@
-title: Canberra Girls' Programming Network
-description: &description Canberra branch of the Girls' Programming Network
-author: Canberra GPN
-url: https://canberragpn.github.io
-logo: /static/img/gpn.png
-github: &github https://github.com/canberragpn
-about: *description
-urls:
-    - text: Home
-      url: /
-      icon: fa-home
-    - text: News
-      url: /news/
-      icon: fa-comments
-      layout: post
-    - text: Register
-      url: /register/
-      icon: fa-group
-    - text: Workshops
-      url: /workshops/
-      icon: fa-desktop
-    - text: Contact
-      url: /contact/
-      icon: fa-envelope
+author: &author Canberra Girls' Programming Network
+title: *author
+email: canberragpn@gmail.com
+description: The Canberra branch of GPN Australia
+baseurl: ''
+github: http://github.com/canberragpn
+imgdir: /static/img
 
-enableTags: true
-tagarray: []
+menu-items:
+- text: Home
+  url: /
+- text: News
+  url: /news/
+  layout: post
+- text: Register
+  url: /register/
+- text: Workshops
+  url: /workshops/
+# - text: FAQ
+#   url: /faq/
+- text: Contact
+  url: /contact/
 
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/news/page:num/"
-permalink: pretty
+collections:
+  workshops:
+    output: true
+
+sass:
+  style: compressed
+
+# Build settings
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+exclude:
+- Gemfile
+- Gemfile.lock

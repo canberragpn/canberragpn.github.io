@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="row align-items-centre">
+  <div class="col-12 text-center">
+    <h1 style="position: relative; top: 4%; max-width: 80%; margin: auto"><b>{{ page.title }}</b></h1>
+  <div class="col-12 text-center">
+  </div>
+    <img style="position: relative; top: -8%" src="{{ site.baseurl }}{{ site.imgdir }}/gpn_garland_sm.svg">
+  </div>
+</div>
+
+<center>
+  {{ content }}
+</center>
+
+{% if page.sod_survey %}
+<div class="row bottom-padded">
+  <div class="col-md-12 text-center">
+    <a href="{{ page.sod_survey }}" class="btn btn-primary">Start of day survey</a>
+  </div>
+</div>
+{% endif %}
+
+{% if page.material %}
+<div class="row">
+  {% for material in page.material %}
+  <div class="col-md-6 text-center bottom-padded">
+    <div class="card shadow">
+      <div class="card-body">
+    <h4>{{ material.name }}</h4>
+    {% for item in material.content %}
+      <h5><a href="{{ item.url }}">{{ item.name }}</a></h5>
+    {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if page.eod_survey %}
+<div class="row">
+  <div class="col-md-12 text-center">
+    <a href="{{ page.eod_survey }}" class="btn btn-primary">End of day survey</a>
+  </div>
+</div>
+{% endif %}

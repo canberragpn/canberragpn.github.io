@@ -3,7 +3,7 @@ layout: post
 title: End of our first year!
 ---
 
-The Canberra Girls' Programming Network has come to the end of its first year!So far, we have taught over 100 girls at our three events.
+The Canberra Girls' Programming Network has come to the end of its first year! So far, we have taught over 100 girls at our three events.
 
 We couldn't be happier with how our first year went. We have exceeded every goal we have set for ourselves this year.
 

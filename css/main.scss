@@ -1,0 +1,128 @@
+---
+---
+
+@import "bootstrap-4.0.0-beta/functions";
+@import "bootstrap-4.0.0-beta/variables";
+
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+
+$theme-colors: (
+  primary:                  #fdd835,  // Material design Yellow-600
+  secondary:                #3949ab,  // Material design Indigo-600
+  success: $green,
+  info: $cyan,
+  warning: $yellow,
+  danger: $red,
+  light: $gray-100,
+  dark: $gray-800,
+  // Following colours are not typical bootstrap variables.
+  // Colours selected using the material design's colour tool: https://material.io/color
+  primary-light:            #ffff6b, // Material design Yellow-600 Light
+  primary-dark:             #c6a700, // Material design Yellow-600 Dark
+  secondary-light:          #6f74dd, // Material design Indigo-600 Light
+  secondary-dark:           #00227b  // Material design Indigo-600 Dark
+);
+
+$body-bg:                   $gray-200;
+
+$jumbotron-bg:              map-get($theme-colors, primary);
+$jumbotron-padding:         1em;  // Reduce the padding around the header.
+
+$enable-rounded:            false; // Make corners pointed rather than rounded.
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,500,500i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,300i,500,500i,700,700i');
+$font-family-sans-serif:    Roboto, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
+$font-family-monospace:     Roboto+Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+$font-family-base:          $font-family-sans-serif;
+
+$font-weight-normal:        300; // Make the regular font a bit thinner than normal.
+$font-weight-base:          $font-weight-normal;
+
+$headings-margin-bottom:    ($spacer / 1.25);  // Increase the margins below headings slightly.
+$headings-font-family:      $font-family-monospace;
+
+$link-color:                map-get($theme-colors, secondary);
+$link-hover-color:          map-get($theme-colors, secondary-dark);
+
+@import "bootstrap-4.0.0-beta/bootstrap";
+
+// Bootstrap mixins
+
+@include bg-variant('.bg-primary-light', map-get($theme-colors, primary-light));
+@include bg-variant('.bg-primary-dark', map-get($theme-colors, primary-dark));
+@include bg-variant('.bg-secondary-light', map-get($theme-colors, secondary-light));
+@include bg-variant('.bg-secondary-dark', map-get($theme-colors, secondary-dark));
+
+// Custom css
+.thick-rule {
+  height: 0.5em;
+  width: 100%;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.shadow {
+  border-style: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header {
+  letter-spacing: .1em;
+}
+
+.padded, .footer {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.bottom-padded {
+  margin-bottom: 1em;
+}
+
+.footer {
+  color: $gray-700;
+}
+
+.no-border {
+  border-style: none;
+}
+
+.navbar-border {
+  border-left: .5em solid map-get($theme-colors, secondary-dark);
+}
+
+.menu-item {
+  align-self:stretch;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
+
+.current-menu-item {
+  background: map-get($theme-colors, secondary-light);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.blink-caret {
+  border-right: .1em solid map-get($theme-colors, primary-dark);
+  animation:
+    blink-caret 1.2s step-end infinite;
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  40% { border-color: map-get($theme-colors, primary-dark); }
+}

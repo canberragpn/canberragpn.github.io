@@ -1,0 +1,19 @@
+<meta content="{{ site.title }}" property="og:site_name">
+
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ site.description }}" property="og:description">
+{% endif %}
+
+{% if page.image %}
+  <meta content="{{ site.baseurl }}{{ imgdir }}/{{ page.image }}" property="og:image">
+{% else %}
+  <meta content="{{ site.baseurl }}{{ imgdir }}/{{ logo }}" property="og:image">
+{% endif %}
