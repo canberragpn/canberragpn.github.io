@@ -5,6 +5,7 @@ description: The Canberra branch of GPN Australia
 baseurl: ''
 github: http://github.com/canberragpn
 imgdir: /static/img
+logo: gpn-square-yellow.svg
 
 menu-items:
 - text: Home
