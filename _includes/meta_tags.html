@@ -13,7 +13,7 @@
 {% endif %}
 
 {% if page.image %}
-  <meta content="{{ site.baseurl }}{{ imgdir }}/{{ page.image }}" property="og:image">
+  <meta content="{{ site.baseurl }}{{ site.imgdir }}/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="{{ site.baseurl }}{{ imgdir }}/{{ logo }}" property="og:image">
+  <meta content="{{ site.baseurl }}{{ site.imgdir }}/{{ site.logo }}" property="og:image">
 {% endif %}
