@@ -3,11 +3,11 @@ layout: post
 title: Announcing the November 2017 Workshop!
 ---
 
+<p><strong><center> Registrations for this event have now closed as we are fully subscribed </center></strong></p>
+
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
 <p><strong><center>Our next workshop will be held on the 5th of November.</center></strong></p>
-
-**Please register now by going to the [registration page](/register) and returning your completed forms to [ASD.DISH@defence.gov.au](mailto:ASD.DISH@defence.gov.au) by Monday 30th October.**
 
 ## What
 
