@@ -11,7 +11,7 @@ The Canberra Girls’ Programming Network is a community for female students to 
 
 ## What
 
-The workshop topic is Microcomputers.
+The workshop topic is Microcontrollers.
 
 We'll be using Nicta ED1 boards to make LEDs flash, text appear on screen and learn about binary numbers.
 

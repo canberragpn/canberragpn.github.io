@@ -30,6 +30,7 @@ sass:
   style: compressed
 
 # Build settings
+future: true
 markdown: kramdown
 exclude:
 - Gemfile
