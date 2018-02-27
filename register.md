@@ -4,7 +4,7 @@ title: Registration
 permalink: /register/
 ---
 
-**REGISTRATIONS ARE CURRENTLY OPEN**
+**REGISTRATIONS ARE CURRENTLY CLOSED**
 
 Registering for our next event is easy. All you need to do is to fill out the following form:
 
