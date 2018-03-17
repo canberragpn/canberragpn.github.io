@@ -3,18 +3,22 @@ layout: workshop
 title: Scissors, paper, rock
 permalink: /workshops/scissors_paper_rock
 icon: /workshop_icons/scissors_paper_rock.png
-date: 2016-03-15
+date: 2018-03-18
+sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSexXYV_SECPAI1zuPCeXuwYuX2Fa1oCW_y1Lte8tzQUdCZNDw/viewform
+eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfGkmjfouS7mkdNtJlofpuCc1qLa1kLh9VjPFtd3J-tKWGh0A/viewform
 material:
-- name: Workbooks
+- name: Beginner Material
   content:
   - name: Beginners workbook
     url: /static/doc/SPRBeginnerWorkbook2018.pdf
+  - name: Beginner slides
+    url: https://drive.google.com/open?id=1oACBmvJ56JI8Rtiu5pMvehlhW2shKibduge8QkmvcZE
+- name: Intermediate Material
+  content:
   - name: Intermediate workbook
     url: /static/doc/SPRBIntermediateWorkbook2018.pdf
-- name: Additional material
-  content:
-  - name: .py template
-    url: /static/code/scissors_paper_rock_template.py
+   - name: Intermediate slides
+    url: https://drive.google.com/open?id=1qnoA3hazEiCjVNp1kk_2JAj5sGyVanWjoj4p-4n2XpM  
 - name: Reference material
   content:
   - name: Python reference guide
