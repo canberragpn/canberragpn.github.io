@@ -8,9 +8,9 @@ material:
 - name: Workbooks
   content:
   - name: Beginners workbook
-    url: /static/doc/ScissorsPaperRock.pdf
+    url: /static/doc/SPRBeginnerWorkbook2018.pdf
   - name: Intermediate workbook
-    url: /static/doc/ScissorsPaperRockLizardSpock.pdf
+    url: /static/doc/SPRBIntermediateWorkbook2018.pdf
 - name: Additional material
   content:
   - name: .py template
