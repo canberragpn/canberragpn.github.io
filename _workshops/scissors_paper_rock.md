@@ -16,9 +16,9 @@ material:
 - name: Intermediate Material
   content:
   - name: Intermediate workbook
-    url: /static/doc/SPRBIntermediateWorkbook2018.pdf
-   - name: Intermediate slides
-    url: https://drive.google.com/open?id=1qnoA3hazEiCjVNp1kk_2JAj5sGyVanWjoj4p-4n2XpM  
+    url: /static/doc/SPRIntermediateWorkbook2018.pdf
+  - name: Intermediate slides
+    url: https://drive.google.com/open?id=1qnoA3hazEiCjVNp1kk_2JAj5sGyVanWjoj4p-4n2XpM
 - name: Reference material
   content:
   - name: Python reference guide
