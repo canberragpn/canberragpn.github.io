@@ -4,8 +4,6 @@ title: Registration
 permalink: /register/
 ---
 
-**REGISTRATIONS ARE CURRENTLY CLOSED**
-
 Registering for our next event is easy. All you need to do is to fill out the following form:
 
   * [Canberra GPN Application Form][gpn application]
