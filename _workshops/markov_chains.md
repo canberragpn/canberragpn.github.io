@@ -29,6 +29,10 @@ material:
   content:
   - name: Sample Text Zip Files
     url: /static/doc/SampleTexts.zip
+- name: Dictionaries
+  content:
+  - name: Workbook 1 Cups Dictionary
+    url: /static/doc/greeneggsdictionary.txt
 ---
 
 Have you ever wanted to write your own stories just like the great authors, but never had the time? Do you think you can create song lyrics that sound just like your favourite artists? What about generating your homework automatically? This workshop will step through generating text using Markov chains and the Python programming language.
