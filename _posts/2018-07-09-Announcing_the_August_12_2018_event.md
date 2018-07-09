@@ -17,6 +17,8 @@ We'll be doing the NCSS Challenge!
 
 The [National Computer Science School](http://www.ncss.edu.au/) teams up with [Grok Learning](https://groklearning.com/) every year to run the [NCSS Challenge](https://groklearning.com/challenge/)! The NCSS Challenge is an opportunity to develop your python skill over five weeks, and the Girls' Programming Network will get you started! You'll solve real world problems and compete against students all over the world.
 
+So that we can create accounts with Grok Learning for the NCSS Challenge, each attendee will need to provide an email address as a part of the registration process. The email address will be provided to Grok Learning to create your account, and will not be used for any other purpose nor added to any mailing list. 
+
 ## Where
 
 University of Canberra, University Dr, Bruce ACT 2617
