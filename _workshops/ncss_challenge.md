@@ -2,7 +2,7 @@
 layout: workshop
 title: NCSS Challenge
 permalink: /workshops/ncss_challenge
-icon: /workshop_icons/challenge.jpg
+icon: /workshop_icons/challenge.png
 date: 2018-08-12
 sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfpsfkgH5fjJGl6Jr81YNgY-j61SdQwDbiBeh6Ri-9dKkIXxw/viewform
 eod_survey: https://docs.google.com/forms/d/e/1FAIpQLScpmtvGbjC4tRmVFetGYLpSX_OGc5jmB2LQDaq3nBoFDSi4ZQ/viewform
