@@ -4,8 +4,6 @@ title: Flappy bird
 permalink: /workshops/flappy_bird
 icon: /workshop_icons/flappy_bird.png
 date: 2017-09-10
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdzXGopgT3zA6DLZEH6dcSY1IExma3cqt3J2jYtnsgPY0DX4A/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSe0Bv1ByK4VITU2L9s1OGqkACteshYXtDtG_87qN5Ia7LNXDA/viewform
 material:
 - name: Beginners material
   content:
