@@ -4,8 +4,6 @@ title: Markov Chains
 permalink: /workshops/markov_chains
 icon: /workshop_icons/markov_chains.png
 date: 2018-05-12
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfTskno4lJWC8hY5u5MZzvCH0-Omznpvv2vRWxbTI8A7a_Kdw/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdYRzbInwnPkNmKK6Gwv7a39pYvHh5MK316XeV7h4WFn0wkhQ/viewform
 material: 
 - name: Slides
   content:
