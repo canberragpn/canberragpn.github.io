@@ -4,8 +4,6 @@ title: Microcontrollers
 permalink: /workshops/microcontrollers
 icon: /workshop_icons/microcontrollers.png
 date: 2017-11-05
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfzknINBrDjgWlJggKJhEJZJezMMLQzVsFoAFJl_cDMqGsL3g/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeyGiBKeDEfnhv_k77a3za6rx4sOCQvsso_2QORG_6RXBXcmw/viewform
 material:
 - name: Beginners material
   content:
