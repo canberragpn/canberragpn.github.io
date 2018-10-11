@@ -4,8 +4,6 @@ title: Chatbots
 permalink: /workshops/chatbots
 icon: /workshop_icons/chatbots.png
 date: 2017-06-04
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfo8odCbWlKbi0dw3hdzvgR3ZUlm4DcQ3PQKknWhlH6lI6TqQ/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdBvl4Jh_2GX_8hIZlSOoewnwyPN30L1SlHPwPgNhobH9-q2g/viewform
 material:
 - name: Beginners material
   content:
