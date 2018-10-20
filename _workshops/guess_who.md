@@ -22,7 +22,7 @@ material:
   - name: Intermediate workbook
     url: /static/doc/GWIntermediateWorkbook.pdf
   - name: Intermediate slides
-    url: https://docs.google.com/presentation/d/1DmMcI0IWya4zHNqcWbU2vvseTCq_cPhRiz_KQepdmzQ/edit?usp=sharing
+    url: https://docs.google.com/presentation/d/1fMfB9852oJ5cTMy81tiNK3ddLvr9dAR0raiQwQ594Jo/edit?usp=sharing
 - name: Reference material
   content:
   - name: Python reference guide
