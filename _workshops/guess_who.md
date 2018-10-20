@@ -9,7 +9,7 @@ eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeF-vobXhMb6j6k1GZjPfGLBM3M
 material:
 - name: Additional Materials
   content:
-    - name: Character Sheet
+  - name: Character Sheet
     url: /data/doc/Guess_Who_People.pdf
 - name: Beginner Material
   content:
