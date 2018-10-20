@@ -10,7 +10,7 @@ material:
 - name: Additional Materials
   content:
   - name: Character Sheet
-    url: /data/doc/Guess_Who_People.pdf
+    url: /static/doc/Guess_Who_People.pdf
 - name: Beginner Material
   content:
   - name: Beginners workbook
