@@ -4,8 +4,6 @@ title: Guess Who?!
 permalink: /workshops/guess_who
 icon: /workshop_icons/guesswho.jpg
 date: 2018-10-28
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSetmoXUKI_MDS4N7Eder-Tt2xp29g0YgxqxfAoWTRJzSfL2jQ/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeF-vobXhMb6j6k1GZjPfGLBM3MoFAmj8yxf_NbUSKhcVYkqA/viewform
 material:
 - name: Additional Materials
   content:
