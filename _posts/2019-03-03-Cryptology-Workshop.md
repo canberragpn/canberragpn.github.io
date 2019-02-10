@@ -5,7 +5,7 @@ title: Announcing the March 2019 Canberra Girls' Programming Network Workshop
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
-<p><strong><center>Our next workshop will be held on October 21 2018!</center></strong></p>
+<p><strong><center>Our next workshop will be held on March 03 2019!</center></strong></p>
 
 **Please register now by going to the [registration page](/register) and returning your completed forms to [ASD](mailto:asd.csps@defence.gov.au).**
 
