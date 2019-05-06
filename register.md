@@ -5,20 +5,21 @@ permalink: /register/
 ---
 
 
+
+<!---
 Registering for our next event is easy. All you need to do is to fill out the following form:
 
  * [Canberra GPN Application Form][gpn application]
 
 Then email the form through to [ASD](mailto:asd.csps@defence.gov.au). You will recieve a confirmation email.
+--->
 
-
-<!---
 **REGISTRATIONS ARE CURRENTLY CLOSED**
 
 To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
 
 You'll receive an email saying when registrations open. 
---->
+
 
 
 [gpn application]:/static/doc/GPN_Application_Form.pdf
