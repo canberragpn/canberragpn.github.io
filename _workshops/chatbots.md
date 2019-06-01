@@ -3,38 +3,26 @@ layout: workshop
 title: Chatbots
 permalink: /workshops/chatbots
 icon: /workshop_icons/chatbots.png
-date: 2017-06-04
+date: 2019-06-02
+sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdPHKW1HvD5sqb_vWIhjYJHShwvRtcurBdB2pJL-FRCDW1kqQ/viewform
+eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSf1rrwIlRsqh3gHUaKUSwI14zbUj21CdSD-p6bimmxr7BXkFA/viewform
 material:
 - name: Beginners material
   content:
-  - name: Beginners book 1
-    url: /static/doc/SassySecurityChatbotBeginnersBook1.pdf
-  - name: Beginners book 2
-    url: /static/doc/SassySecurityChatbotBeginnersBook2.pdf
-  - name: Beginners book 3
-    url: /static/doc/SassySecurityChatbotBeginnersExtensions.pdf
+  - name: Beginners Workbook
+    url: /static/doc/SassySecurityChatbotBeginnerWorkbook.pdf
   - name: Beginners slides
-    url: https://drive.google.com/drive/folders/0B2Kt73hcAirqTktTR1J5S1ZLM00?usp=sharing
+    url: https://drive.google.com/open?id=1xFeoEtJHA0sWv4A50vRTSC4RVt4z-EsP0FB2P--yMRI
 - name: Intermediate material
   content:
-  - name: Intermediate book 1
-    url: /static/doc/SassySecurityChatbotIntermediateBook1.pdf
-  - name: Intermediate book 2
-    url: /static/doc/SassySecurityChatbotIntermediateBook2.pdf
-  - name: Intermediate book 3
-    url: /static/doc/SassySecurityChatbotIntermediateExtensions.pdf
+  - name: Intermediate Workbook
+    url: /static/doc/SassySecurityChatbotIntermediateWorkbook.pdf
   - name: Intermediate slides
-    url: https://drive.google.com/drive/folders/0B2Kt73hcAirqYlM4TE42Q3N0eGM?usp=sharing
-  - name: portal.py
-    url: /static/code/portal.py
-  - name: helper.py
-    url: /static/code/helper.py
+    url: https://docs.google.com/presentation/d/1vbLS0XdapofoZ8LgJ8XxZnkrZ17xskd_sECqg9XKPFo/edit?usp=sharing
 - name: Reference material
   content:
   - name: Python reference guide
     url: /static/doc/PythonReferenceGuide.pdf
-  - name: Networking reference guide
-    url: /static/doc/NetworkingReferenceGuide.pdf
 ---
 
 Keeping your secrets safe is just plain hard! Especially if you have nosey people in your family who won’t stop snooping around!
