@@ -126,3 +126,9 @@ img {
   from, to { border-color: transparent }
   40% { border-color: map-get($theme-colors, primary-dark); }
 }
+
+form{
+    position:fixed;
+    left: 20%;
+    width : 40%;
+}
