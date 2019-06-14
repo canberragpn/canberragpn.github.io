@@ -13,11 +13,8 @@ Send us an email at <a href="mailto:{{ site.emailh }}">{{ site.email }}</a>!
     <fieldset>
         <legend>Sign up to join the GPN Canberra Mailing List!</legend>
 
-        <label>Name:*</label>
-        </br>
+        Name:*
         <input type="text" placeholder="" name="entry.2120000318" required>
-
-        </br></br>
 
         <label>Email Address:*</label>
         </br>
