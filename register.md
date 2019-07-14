@@ -4,7 +4,7 @@ title: Registration
 permalink: /register/
 ---
 
-**Please Note: There are additional steps for registering for our August Event, as the topic is the NCSS Challenge. **
+**Please Note: There are additional steps for registering for our August Event, as the topic is the NCSS Challenge.**
 
 Registering for our next event is easy. All you need to do is to digitally fill out the following form:
 
