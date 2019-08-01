@@ -4,6 +4,7 @@ title: Registration
 permalink: /register/
 ---
 
+<!---
 **Please Note: There are additional steps for registering for our August Event, as the topic is the NCSS Challenge.**
 
 Registering for our next event is easy. All you need to do is to digitally fill out the following form:
@@ -20,15 +21,15 @@ Steps required:
 * If your daughter already has an account please let us know when you send through the email address so we can link the account to the GPN.
 
 You will recieve a confirmation email once the registration process is complete.
+--->
 
-<!---
 **REGISTRATIONS ARE CURRENTLY CLOSED**
 
 To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
 
 You'll receive an email saying when registrations open. 
 
---->
+
 
 [gpn application]:/static/doc/GPN_Application_Form.pdf
 
