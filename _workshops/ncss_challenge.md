@@ -14,15 +14,15 @@ material:
 - name: Beginners material
   content:
   - name: Beginners slides
-    url: https://docs.google.com/presentation/d/1bg7EtNRn8LKanWpP_TabcxHbBvKx6vwxhZ9ld9Wo3MI/edit?usp=sharing
+    url: https://docs.google.com/presentation/d/1D7MMSQtoEbA4Wv7VrMV0jIAEkHUMRcNesefqRPIn2rQ/edit#slide=id.g5f5e9c6e42_1_27
 - name: Intermediate material
   content:
   - name: Intermediate slides
-    url: https://docs.google.com/presentation/d/15fbZfeyHdkgDrW2GAQeFOUyhYVhjxfeeVOJ4zKckQh8/edit?usp=sharing
+    url: https://docs.google.com/presentation/d/1XBbw-ALC2PnmtxTC85CQ1piUs_Ryq4NrOTKWb7TZTAs/edit#slide=id.g5f60a4a5dd_1_27
 - name: Advanced material
   content:
   - name: Advanced Slides
-    url: https://docs.google.com/presentation/d/1VTEgJLjGBVvrqdqMrLhV3byK1dQG4B5fAm9toGBxPyw/edit?usp=sharing
+    url: https://docs.google.com/presentation/d/1QNn_jvs5YJO16RfKT71FjG1C-5k_K1FqM4c1A9AEC5I/edit#slide=id.g5f60c7fc28_4_588
 - name: Reference material
   content:
   - name: Python reference guide
