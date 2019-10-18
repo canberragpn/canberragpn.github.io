@@ -1,6 +1,6 @@
 ---
 layout: workshop
-title: Bop It! with Micro:bits
+title: Bop It
 permalink: /workshops/bopit
 icon: /workshop_icons/bopit.png
 date: 2019-10-18
@@ -47,3 +47,5 @@ material:
   - name: Micro:bit Image Cheat Sheet
     url: https://aca.edu.au/resources/microbit-images-poster/microbit-images.pdf
 ---
+
+In this workshop, we'll be using Micro:bits to make the classic game of Bop it!
