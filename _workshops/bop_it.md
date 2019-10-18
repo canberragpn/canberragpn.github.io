@@ -1,9 +1,9 @@
 ---
 layout: workshop
-title: Bop It
+title: Bop It!
 permalink: /workshops/bop_it
 icon: /workshop_icons/bopit.png
-date: 2019-10-18
+date: 2019-10-17
 sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSe3pHG1HcC_SYGVTNgJkWkFln-Y8LoaZCrr8VaSAwMMtJOHfw/viewform
 eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfxhszvZvjmIjYev9hJiMuoMtT8UuGKJKnZ4cIYaAHvHwk_Tw/viewform
 material:
@@ -12,6 +12,7 @@ material:
   - name: Base Workbook
     url: /static/doc/BaseMicrobit.pdf
 - name: Extensions
+  content:
   - name: Create your own Image
     url: /static/doc/mbOwnImage.pdf
   - name: DIY Buttons
