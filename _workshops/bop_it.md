@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: Bop It
-permalink: /workshops/bopit
+permalink: /workshops/bop_it
 icon: /workshop_icons/bopit.png
 date: 2019-10-18
 sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSe3pHG1HcC_SYGVTNgJkWkFln-Y8LoaZCrr8VaSAwMMtJOHfw/viewform
