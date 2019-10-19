@@ -49,4 +49,4 @@ material:
     url: https://aca.edu.au/resources/microbit-images-poster/microbit-images.pdf
 ---
 
-In this workshop, we'll be using Micro:bits to make the classic game of Bop it! Create your own buttons, and create a co-op mode to compete against your friends!
+In this workshop, we'll be using Micro:bits to make the classic game of Bop it! Create your own buttons, and create a co-op mode to compete against your friends! Race to be the first to complete the action!
