@@ -28,7 +28,7 @@ material:
   - name: Basic Radio
     url: /static/doc/mbBasicRadio.pdf
   - name: First to complete an action (Radio)
-    url: static/doc/mbFirstAction.pdf
+    url: /static/doc/mbFirstAction.pdf
   - name: Co-op Mode (Radio)
     url: /static/doc/mbCoopMode.pdf
 - name: Slides
