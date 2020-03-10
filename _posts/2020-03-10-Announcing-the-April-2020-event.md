@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing the October 2019 Canberra Girls' Programming Network Workshop
+title: Announcing the April 2020 Canberra Girls' Programming Network Workshop
 ---
 
 
