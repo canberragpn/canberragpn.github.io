@@ -14,6 +14,7 @@ You'll receive an email saying when registrations open.
 
 
 **Registration**
+
 REGISTRATIONS OPEN WEDNESDAY 11 April 10am - 8pm
 
 Please click the below link to be taken to our new online registration page. Paper/email registrations will NOT be accepted.
