@@ -3,6 +3,7 @@ layout: post
 title: Announcing the April 2020 Canberra Girls' Programming Network Workshop
 ---
 
+**Registrations for this event are now closed**
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
