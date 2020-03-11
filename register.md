@@ -4,15 +4,15 @@ title: Registration
 permalink: /register/
 ---
 
-<!--
+
 **REGISTRATIONS ARE CURRENTLY CLOSED**
 
 To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
 
 You'll receive an email saying when registrations open. 
---->
 
 
+<!--
 **Registration**
 
 REGISTRATIONS OPEN WEDNESDAY 11 April 10am - 8pm
@@ -23,7 +23,7 @@ Please click the below link to be taken to our new online registration page. Pap
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
 
-
+--->
 
 
 [register]:https://canberra.gpn.rocks
