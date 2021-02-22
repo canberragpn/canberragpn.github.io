@@ -12,10 +12,10 @@ To get the earliest notification on when registrations for our next event open, 
 You'll receive an email saying when registrations open. 
 
 
-<!--
+
 **Registration**
 
-REGISTRATIONS OPEN WEDNESDAY 11 April 10am - 8pm
+REGISTRATIONS OPEN MONDAY 01 March 6pm AEDST
 
 Please click the below link to be taken to our new online registration page. Paper/email registrations will NOT be accepted.
 
@@ -23,7 +23,6 @@ Please click the below link to be taken to our new online registration page. Pap
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
 
---->
 
 
 [register]:https://canberra.gpn.rocks
