@@ -4,7 +4,7 @@ title: Announcing the March 2021 Canberra Girls' Programming Network Workshop
 ---
 
 
-<p><strong><center>** REGISTRATIONS FOR THIS EVENT OPENS MARCH 1 **</center></strong></p>
+<p><strong><center>** REGISTRATIONS FOR THIS EVENT IS NOW OPEN**</center></strong></p>
 
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
@@ -15,7 +15,8 @@ The Canberra Girls’ Programming Network is a community for female students to 
 
 ## What
 
-We're still finalising the topic - update soon!
+Tic Tac Toe\
+Create a game to play against your friends, and build an AI so you can play Tic-Tac-Toe whenever you want.
 
 ## Where
 
