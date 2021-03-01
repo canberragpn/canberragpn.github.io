@@ -7,21 +7,19 @@ permalink: /register/
 
 ** REGISTRATIONS ARE CURRENTLY OPEN **
 
-To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
-
-You'll receive an email saying when registrations open. 
-
-
-
-**Registration**
-
-REGISTRATIONS OPEN MONDAY 01 March 6pm AEDST
-
 Please click the below link to be taken to our new online registration page. Paper/email registrations will NOT be accepted.
 
 [REGISTER HERE][register]
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
+
+
+
+To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
+
+You'll receive an email saying when registrations open. 
+
+Registrations will close at 8pm Tuesday 2nd March, however places in the workshop may be exhausted before this time.
 
 
 
