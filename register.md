@@ -5,7 +5,7 @@ permalink: /register/
 ---
 
 
-**REGISTRATIONS ARE CURRENTLY CLOSED**
+** REGISTRATIONS ARE CURRENTLY OPEN **
 
 To get the earliest notification on when registrations for our next event open, join our [mailing list][mail]!
 
