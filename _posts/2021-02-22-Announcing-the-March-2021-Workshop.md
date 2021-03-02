@@ -6,6 +6,12 @@ title: Announcing the March 2021 Canberra Girls' Programming Network Workshop
 
 <p><strong><center>** REGISTRATIONS FOR THIS EVENT ARE NOW CLOSED **</center></strong></p>
 
+<p><strong> ** Update **
+
+Now that registrations have closed, we will be processing applications and notifying applicants of their placement or waitlist.
+You will receive email notification over the next few days, thank you for your patience! </strong></p>
+
+
 
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
@@ -37,7 +43,7 @@ CSIT Building, 108 North Road, Acton, 2601\
 
 ## Who
 
-Female students from years 4 to 12.
+Female students from years 4 to year 12.
 
 ## What do I need to know
 
