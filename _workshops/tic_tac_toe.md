@@ -3,7 +3,7 @@ layout: workshop
 title: Tic tac toe
 permalink: /workshops/tic_tac_toe
 icon: /workshop_icons/tic_tac_toe.png
-date: 2020-03-21
+date: 2021-03-21
 material:
 - name: Workbooks
   content:
