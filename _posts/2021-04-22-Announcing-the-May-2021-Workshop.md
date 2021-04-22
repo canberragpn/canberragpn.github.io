@@ -34,19 +34,19 @@ CSIT Building, 108 North Road, Acton, 2601\
 ## When
 
 * Sunday, May 23 2021
-* Please arrive by 9:30am for registration
+* Registration begins at 9:30am
 * Mingling and Sorting hat from 9:30am - 10am (matching students with GPN tutors)
 * Workshop begins at 10am
-* Parents pickup at 3:30pm (due to COVID we cannot have parents visit in the labs)
+* Parents pickup at 3:30pm (due to COVID restrictions we cannot have parents visit the computer labs)
 * Conclude by 4pm
 
 ## Who
 
-Female students from years 4 to year 12.
+Female students from year 4 to year 12.
 
 ## What do I need to know
 
-Absolutely no coding experience necessary! We cater for girls of all programming skill levels. 
+Absolutely no coding experience necessary! We cater for girls of all programming skill levels and will make sure you are in a group that's right for you. 
 
 ## How
 
