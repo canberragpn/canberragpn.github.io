@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing the March 2021 Canberra Girls' Programming Network Workshop
+title: Announcing the May 2021 Canberra Girls' Programming Network Workshop
 ---
 
 
