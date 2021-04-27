@@ -5,7 +5,7 @@ permalink: /register/
 ---
 
 
-** REGISTRATIONS - OPENING SOON! **
+** REGISTRATIONS - NOW OPEN! **
 
 Registrations for the workshop on 23rd May, 2021 will open at 6pm 27th April, 2021.
 
