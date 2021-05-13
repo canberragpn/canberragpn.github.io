@@ -28,7 +28,9 @@ material:
     url: /static/doc/PythonReferenceGuide.pdf
   - name: Python syntax cheat sheet
     url: /static/doc/PythonCheatSheet.pdf
+  eod_survey:https://docs.google.com/forms/d/1QJJeIoQX7Hoy0FoDGW_2xPe5XPmIbstgDERZgFfdid0/edit  
+   
 ---
-eod_survey:https://docs.google.com/forms/d/1QJJeIoQX7Hoy0FoDGW_2xPe5XPmIbstgDERZgFfdid0/edit
+
 
 Program the Classic Game of Guess Who to play against the computer! Hide your character and get the computer to guess who you're thinking of, or get the computer to hide a character and you'll Guess Who!
