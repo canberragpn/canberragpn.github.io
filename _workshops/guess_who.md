@@ -29,7 +29,6 @@ material:
   - name: Python syntax cheat sheet
     url: /static/doc/PythonCheatSheet.pdf
   eod_survey:https://docs.google.com/forms/d/1QJJeIoQX7Hoy0FoDGW_2xPe5XPmIbstgDERZgFfdid0/edit  
-   
 ---
 
 
