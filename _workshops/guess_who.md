@@ -5,7 +5,7 @@ permalink: /workshops/guess_who
 icon: /workshop_icons/guesswho.jpg
 date: 2021-05-17
 sod_survey: https://docs.google.com/forms/d/15p_hd_lZAv-4OlEDMiOTerJtpiiut06QFZcFvD3tEdM/edit
-eod_survey:https://docs.google.com/forms/d/1QJJeIoQX7Hoy0FoDGW_2xPe5XPmIbstgDERZgFfdid0/edit  
+eod_survey: https://docs.google.com/forms/d/1QJJeIoQX7Hoy0FoDGW_2xPe5XPmIbstgDERZgFfdid0/edit  
 material:
 - name: Additional Materials
   content:
