@@ -16,7 +16,7 @@ material:
   - name: Beginners workbook
     url: /static/doc/GWBeginnerWorkbook.pdf
   - name: Beginner slides
-    url: https://docs.google.com/presentation/d/1DmMcI0IWya4zHNqcWbU2vvseTCq_cPhRiz_KQepdmzQ/edit?usp=sharing
+    url: https://docs.google.com/presentation/d/1ShpOR_lxO5b-LnKlYg7cPTvJmj0dSGbLhw2lrW_9X-0/edit#slide=id.g32138d9dd6_2_46
 - name: Intermediate Material
   content:
   - name: Intermediate workbook
