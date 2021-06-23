@@ -4,7 +4,7 @@ title: Announcing the August 2021 Canberra Girls' Programming Network Workshop
 ---
 
 
-<p><strong><center>** REGISTRATIONS FOR THIS EVENT WILL OPEN Monday 12TH July 2021 **</center></strong></p>
+<p><strong><center>** REGISTRATIONS FOR THIS EVENT WILL OPEN Monday 12 July 2021 **</center></strong></p>
 
 <!--<p><strong>
 ** Update **
@@ -16,7 +16,7 @@ You will receive email notification over the next few days, thank you for your p
 The Canberra Girls’ Programming Network is a community for female students to learn about computer programming and technology through hands-on workshops. It gives girls exposure to female role models across academia, government and industry.
 
 
-<p><strong><center>Our next workshop will be held on March 21 2021!</center></strong></p>
+<p><strong><center>Our next workshop will be held on August 15 2021!</center></strong></p>
 
 Registration for the workshop will open 12 July 2021 using our online [registration page](/register). 
 
