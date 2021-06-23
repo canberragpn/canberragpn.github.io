@@ -5,12 +5,12 @@ permalink: /register/
 ---
 
 
-** REGISTRATIONS - NOW OPEN! **
+** REGISTRATIONS OPEN 12 JULY 2021! **
 
-Registrations for the workshop on 23rd May, 2021 will open at 6pm 27th April, 2021.
+Registrations for the workshop on 15 August, 2021 will open at 6pm Monday 12 July, 2021.
 
 To get the earliest notification on when registrations open for our next event, join our [mailing list][mail]!\
-You will receive an email saying when registrations open.
+You will receive an email announcing when registrations open.
 
 
 Please click the below link to be taken to our new online registration page. Paper/email registrations will NOT be accepted.
@@ -19,7 +19,7 @@ Please click the below link to be taken to our new online registration page. Pap
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
 
-Registrations will close at 6pm Tuesday 28th April, however places in the workshop may be exhausted before this time.
+Registrations will close at 6pm Tuesday 13 July, however places in the workshop may be exhausted before this time.
 
 [register]:https://canberra.gpn.rocks
 
