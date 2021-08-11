@@ -4,9 +4,8 @@ title: NCSS Challenge
 permalink: /workshops/ncss_challenge
 icon: /workshop_icons/challenge.png
 date: 2021-08-15
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeFgf89yUr-oNxvf2gmRpbyqcJLZ1CshJTPcwkw9DCKPwwAZg/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLScGbXP-xri4OpmTHwe746K4n9AKyFf0jx2CN_AgYfiz2d1_ow/viewform
-material:
+sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeA1Phk_pOyKb-7IRA7xgLrUKR_8Kmy_S0HskWqFnN_pqCRyA/viewform?usp=sf_link
+eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSctHaK7XjII_VAz8dVxSXY9r0Ob0xoJPMxBg6QIENuZ3HjW6Q/viewform?usp=sf_link
 - name: Grok Learning 
   content:
   - name: NCSS Challenge
