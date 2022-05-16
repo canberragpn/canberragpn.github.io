@@ -3,7 +3,7 @@ layout: workshop
 title: Scissors, paper, rock
 permalink: /workshops/scissors_paper_rock
 icon: /workshop_icons/scissors_paper_rock.png
-date: 2018-03-18
+date: 2022-05-22
 material:
 - name: Beginner Material
   content:
