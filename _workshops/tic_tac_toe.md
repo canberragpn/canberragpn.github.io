@@ -4,7 +4,7 @@ title: Tic tac toe
 permalink: /workshops/tic_tac_toe
 icon: /workshop_icons/tic_tac_toe.png
 date: 2021-03-21
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfIDtRg7XVPNZyyo8usw2Zxy7cdiXMkKNPBOvN28XyWbzgD8g/viewform?vc=0&c=0&w=1&flr=0&gxids=7628
+sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdhmDErvgacIEgMT9C2UDFCwmYJ3Gmm9t08n7eye240zzQ-oA/viewform
 eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdFNQxXhPFRImmd5EYP412BtkyWs8G5fSkcz9PPasZ4PLzU3A/viewform?vc=0&c=0&w=1&flr=0&gxids=7628
 material:
 - name: Workbooks
