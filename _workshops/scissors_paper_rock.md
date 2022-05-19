@@ -4,7 +4,7 @@ title: Scissors, paper, rock
 permalink: /workshops/scissors_paper_rock
 icon: /workshop_icons/scissors_paper_rock.png
 date: 2022-05-22
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeJ5QzEflfh53IQl0TblnKfOeZLylEgtf3in-lwyf305YzWuw/viewform
+sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSdhmDErvgacIEgMT9C2UDFCwmYJ3Gmm9t08n7eye240zzQ-oA/viewform
 eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeJ5QzEflfh53IQl0TblnKfOeZLylEgtf3in-lwyf305YzWuw/viewform
 material:
 - name: Beginner Material
