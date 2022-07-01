@@ -5,21 +5,21 @@ permalink: /register/
 ---
 
 
-** REGISTRATIONS OPEN 26 APRIL 2022! **
+** REGISTRATIONS OPEN 04 JULY 2022! **
 
-Registrations for the workshop on 22 May 2022 will open at 6pm Tuesday 26 April, 2022.
+Registrations for the workshop on Sunday 07 August 2022 will open at 6pm Monday 04 July, 2022.
 
 To get the earliest notification on when registrations open for our next event, join our [mailing list][mail]!\
 You will receive an email announcing when registrations open.
 
 
-Please click the below link to be taken to our new online registration page. Paper/email registrations will NOT be accepted.
+Please click the below link to be taken to our online registration page.
 
 [REGISTER HERE][register]
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
 
-Registrations will close at 6pm Wednesday 27 April, however places in the workshop may be exhausted before this time.
+Registrations will close at 6pm Tuesday 05 July, however places in the workshop may be exhausted before this time.
 
 [register]:https://canberra.gpn.rocks
 
