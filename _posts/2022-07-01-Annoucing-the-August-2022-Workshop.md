@@ -3,6 +3,7 @@ layout: post
 title: Announcing the August 2022 Canberra Girls' Programming Network Workshop
 ---
 
+
 <p><strong><center>** REGISTRATIONS FOR THIS EVENT WILL OPEN Monday 04 July 2022 **</center></strong></p>
 
 <!--
