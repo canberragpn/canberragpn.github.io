@@ -3,9 +3,9 @@ layout: workshop
 title: NCSS Challenge
 permalink: /workshops/ncss_challenge
 icon: /workshop_icons/challenge.png
-date: 2021-08-15
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeA1Phk_pOyKb-7IRA7xgLrUKR_8Kmy_S0HskWqFnN_pqCRyA/viewform?usp=sf_link
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSctHaK7XjII_VAz8dVxSXY9r0Ob0xoJPMxBg6QIENuZ3HjW6Q/viewform?usp=sf_link
+date: 2022-08-07
+sod_survey: https://docs.google.com/forms/d/1VcusgDh4V0DcMS3b4DzQXt7or11FT9BvTqYEPf-TmGc/edit
+eod_survey: https://docs.google.com/forms/d/1wGGVPzaBobc7H9kqv90k3ol5dRb2fln3aWaTO6G-rI0/edit
 material:
 - name: Grok Learning 
   content:
