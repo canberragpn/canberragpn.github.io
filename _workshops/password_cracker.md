@@ -2,7 +2,7 @@
 layout: workshop
 title: Password Cracker
 permalink: /workshops/password_cracker
-icon: /static/img/lock.jpg
+icon: /static/img/lock.png
 date: 2022-11-27
 sod_survey: 
 eod_survey: 
