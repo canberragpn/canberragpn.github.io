@@ -4,8 +4,8 @@ title: Password Cracker
 permalink: /workshops/password_cracker
 icon: /static/img/lock.png
 date: 2022-11-27
-sod_survey: 
-eod_survey: 
+sod_survey: https://docs.google.com/forms/d/1t2VbA6125VpMkThsit07wWTZ-eiGzEfj_Mi4hGIUtgw/
+eod_survey: https://docs.google.com/forms/d/19seV8yxUwb6fhHTN297_sno3PuHZeXfKYYmfh9QVe4o/
 material:
 - name: Beginner Material
   content:
