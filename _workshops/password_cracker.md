@@ -19,11 +19,6 @@ material:
     url: /static/doc/Password%20Cracker%20Workbook%20P.docx
   - name: Intermediate slides
     url: /static/doc/Password%20Cracker%20Slides%20P.pptx
-   content:
-  - name: Advanced workbook
-    url: /static/doc/Password%20Cracker%20Workbook%20N.docx
-  - name: Advanced slides
-    url: /static/doc/Password%20Cracker%20Slides%20N.pptx
 - name: Reference material
   content:
   - name: Python reference guide
