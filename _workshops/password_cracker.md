@@ -25,6 +25,12 @@ material:
     url: /static/doc/PythonReferenceGuide.pdf
   - name: Python syntax cheat sheet
     url: /static/doc/PythonCheatSheet.pdf
+- name: Extra material
+  content:
+  - name: common passwords
+    url: /static/doc/common-passwords.txt
+  - name: accounts
+    url: /static/doc/accounts.txt
 ---
 
 Have you ever wondered how to write a computer game? In this workshop you'll write the code for your very own game! You'll be writing a "text-based" game, which means the game is all text.
