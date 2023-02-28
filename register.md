@@ -5,9 +5,9 @@ permalink: /register/
 ---
 
 
-** REGISTRATIONS OPEN 31 OCTOBER 2022! **
+** REGISTRATIONS OPEN 1 MARCH 2023! **
 
-Registrations for the workshop on Sunday 27 November 2022 will open at 9am Monday 31 October, 2022.
+Registrations for the workshop on Sunday 26 March 2023 will open at 9am Wednesday 1 March, 2023.
 
 To get the earliest notification on when registrations open for our next event, join our [mailing list][mail]!\
 You will receive an email announcing when registrations open.
