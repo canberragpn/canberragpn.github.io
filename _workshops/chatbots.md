@@ -3,7 +3,7 @@ layout: workshop
 title: Chatbots
 permalink: /workshops/chatbots
 icon: /workshop_icons/chatbots.png
-date: 2019-06-02
+date: 2023-03-26
 material:
 - name: Beginners material
   content:
