@@ -10,13 +10,13 @@ material:
 - name: Beginners material
   content:
   - name: Beginners Workbook
-    url: /static/doc/SassySecurityChatbotBeginnerWorkbook.pdf
+    url: /static/doc/Beginners Workbook.docx
   - name: Beginners slides
     url: https://drive.google.com/open?id=1xFeoEtJHA0sWv4A50vRTSC4RVt4z-EsP0FB2P--yMRI
 - name: Intermediate material
   content:
   - name: Intermediate Workbook
-    url: /static/doc/SassySecurityChatbotIntermediateWorkbook.pdf
+    url: /static/doc/Intermediate Workbook.docx
   - name: Intermediate slides
     url: https://docs.google.com/presentation/d/1vbLS0XdapofoZ8LgJ8XxZnkrZ17xskd_sECqg9XKPFo/edit?usp=sharing
 - name: Reference material
