@@ -5,9 +5,9 @@ permalink: /register/
 ---
 
 
-** REGISTRATIONS OPEN 1 MARCH 2023! **
+** REGISTRATIONS OPEN 22 May 2023! **
 
-Registrations for the workshop on Sunday 26 March 2023 will open at 9am Wednesday 1 March, 2023.
+Registrations for the workshop on Sunday 18 June 2023 will open at 6pm Monday 22 May, 2023.
 
 To get the earliest notification on when registrations open for our next event, join our [mailing list][mail]!\
 You will receive an email announcing when registrations open.
@@ -19,7 +19,7 @@ Please click the below link to be taken to our online registration page.
 
 Reminder - registration does not mean a placement in the workshop. We will be be in touch via email to confirm placements.
 
-Registrations will close at 11:59pm Friday 3rd March 2023, however places in the workshop may be exhausted before this time.
+Registrations will close at 6pm 23 May 2023, however places in the workshop may be exhausted before this time.
 
 [register]:https://canberra.gpn.rocks
 
