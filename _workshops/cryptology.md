@@ -4,8 +4,8 @@ title: Cryptology
 permalink: /workshops/cryptology
 icon: /workshop_icons/cryptography.png
 date: 2023-06-25
-sod_survey: https://docs.google.com/forms/d/e/1FAIpQLSeYY2EHqXVL5QYjzy3DPHbeo7UJ2ii6j50EInfzrYv1hF2IPw/viewform
-eod_survey: https://docs.google.com/forms/d/e/1FAIpQLSfK3GR_5D0c_buxRuXzReZnYRBPWpSFCNsTWnBYLDiqHAujBQ/viewform
+sod_survey: https://docs.google.com/forms/d/1rX7bymyXLH7NNbHt7JqVG7KFTUD4JdxK7SQPWFTjvoo/viewform
+eod_survey: https://docs.google.com/forms/d/1X3GR-v7iYPTl-NYwPNMLYu0yvd6zJcFje12MO7dtR4Q/viewform
 material:
 - name: Workbooks
   content:
