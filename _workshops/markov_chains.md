@@ -3,7 +3,7 @@ layout: workshop
 title: Markov Chains
 permalink: /workshops/markov_chains
 icon: /workshop_icons/markov_chains.png
-date: 2018-05-12
+date: 2023-09-10
 material: 
 - name: Slides
   content:
